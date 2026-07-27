@@ -1,0 +1,411 @@
+.card{
+    border:solid 5px;
+    height:50%;
+    width:15%;  
+    position:relative;
+    font-weight:bolder;
+    background-color:#fcfaf2;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url("bg card.png");
+}
+.first{
+    position:absolute;
+    top:10px;
+    left:10px;
+}
+.second{
+     position:absolute;
+     bottom:10px;
+     right:10px;
+     rotate:180deg;
+}
+.three{
+    position:absolute;
+    bottom:10px;
+    font-size:15px;
+    font-size:30px;
+}
+
+
+.four{
+    position:absolute;
+    top:10px;
+    right:10px;
+    font-size:25px;
+}
+.five{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-size:30px;
+}
+.back{
+    border:solid 5px;
+     height:50%;
+    width:15%;
+    margin:auto;
+    position:relative;
+    background-image:url(card-1.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment: scroll;
+    
+
+}
+.back{
+    position:relative;
+    right:30%
+    
+    
+}
+
+.cardo{
+    border:solid 5px;
+    height:50%;
+    width:15%;
+    margin-left:30%;
+    position:absolute;
+    top:0;
+    background-image:url("bg card.png");
+}
+.six{
+    position:absolute;
+    left:10px;
+}
+.seven{
+    position:absolute;
+    right:10px;
+    bottom:10px;
+
+}
+.spade{
+    position:absolute;
+    bottom:50px;
+    left:50px;
+    
+    font-size:30px;
+    transform: rotate(180deg)
+}
+.spades{
+     position:absolute;
+     bottom:50px;
+     right:47px;
+     font-size:29px;
+     transform: rotate(180deg)
+  }
+  .pades{
+    position:absolute;
+    top:50px;
+    right:50px;
+    font-size:30px
+  }
+  .paden{
+    position:absolute;
+    top:50px;
+    left:50px;
+    font-size:30px
+  }
+  .padens{
+    position:absolute;
+    top:50%;
+    left:25%;
+    transform: translate(-50%, -50%);
+    font-size:30px;
+    
+  }
+  .spa{
+    position:absolute;
+    top:47%;
+    right:17%;
+    font-size:30px;
+ 
+
+  }
+  .side{
+    border:solid 5px;
+     height:50%;
+    width:15%;
+    margin:auto;
+    position:relative;
+    background-image:url(card-1.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment: scroll;
+  
+  }
+  .side{
+      position:absolute;
+     top:52.2%;
+      left:40%
+  }
+  .spad{
+    position:absolute;
+    left:3%;
+    font-size:15px
+  }
+  .spd{
+    position:absolute;
+    bottom:10px;
+    right:3%;
+    rotate:180deg;
+  }
+  .diamond{
+    border:solid 5px;
+    height:50%;
+    width:15%;
+    top:0%;
+    margin-left:57%;
+    top:0;
+    position:absolute;
+    background-image:url("bg card.png");
+
+  } 
+.eight {
+  position: absolute;
+  top: 7px;
+  left: 15px;
+
+}
+.nine {
+  position: absolute;
+  bottom: 27px;
+  right: 10px;
+  margin: 0;
+;
+  transform: rotate(180deg); /* Flips the bottom 4 upside down */
+}
+.ten {
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  font-size: 30px;
+}
+.eleven{
+    position:absolute;
+    top:20%;
+     right: 20%;
+  font-size: 30px;
+}
+
+.thirteen {
+  position: absolute;
+  bottom: 20%;
+  left: 20%;
+  font-size: 30px;
+}
+
+.fourteen {
+  position: absolute;
+  bottom: 20%;
+  right: 17%;
+  font-size: 30px;
+}
+.car{
+     border:solid 5px;
+     height:50%;
+    width:15%;
+    margin:auto;
+    position:absolute;
+    background-image:url(card-1.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment:initial;
+    top:520px;
+    left:900px;
+
+
+}
+.car{
+    position:absolute;
+    right:50px
+}
+.teenfour{
+  position:absolute;
+  left:12px;
+  font-size:20px
+}
+.teenfive{
+  position:absolute;
+  right:6px;
+  bottom:10px;
+  font-size:20px;
+} 
+.new{
+
+  position:absolute;
+  border:solid 5px;
+  height:50%;
+  width:15%;
+   background-image:url("bg card.png");
+
+}
+.A{
+   position:absolute;
+   left:11px;
+   top:12px
+   
+}
+.B{
+  position:absolute;
+  right:13px;
+  bottom:10px;
+}
+.new1{
+  position:absolute;
+  top:15%;
+  right:45%;
+  font-size:35px;
+}
+.new2{
+  position:absolute;
+  bottom:15%;
+  right:43.5%;
+  font-size:35px;
+  rotate:180deg;
+}
+.new3{
+  position:absolute;
+  left:2%;
+  top:15%;
+  font-size:20px;
+}
+.new4{
+  position:absolute;
+  bottom:0.8%;
+  right:3%;
+  font-size:20px;
+  rotate:180deg
+}
+.bg{
+   border:solid 5px;
+     height:50%;
+    width:15%;
+    margin:0;
+    position:absolute;
+    background-image:url(card-1.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+  }
+  .bg{
+    position:absolute;
+    right:75%;
+    top:158%;
+  }
+  .joker{
+    position:absolute;
+    background-image:url(JOKER.jpg);
+    left:30%;
+    margin:0%;
+    border:solid 5px;
+    height:50%;
+    width:15%;
+    background-size:100% 90%;
+    background-repeat:no-repeat;
+    
+
+  }
+  .C{
+      position:absolute;
+      rotate:270deg;
+      font-size:25px;
+      left:5px;
+      font-family:Arial, Helvetica, sans-serif;
+
+  }
+  .D{
+    position:absolute;
+    bottom:10px;
+    right:1px;
+    font-size:25px;
+    rotate:270deg;
+    font-family:Arial, Helvetica, sans-serif;
+
+  }
+.jkback{
+  
+  border:solid 5px;
+     height:50%;
+    width:15%;
+    margin:auto;
+    position:absolute;
+    background-image:url(card-1.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment:initial;
+    top:158%;
+    left:40%
+
+}
+.jack{
+    position: absolute;
+    background-image: url(jack.jpg),url("bg card.png");
+    background-repeat:no-repeat,no-repeat;
+    height:50%;;
+    width:15%;
+    left:58%;
+    border:solid 5px;
+     padding: 20px;          /* Space for the letters */
+    box-sizing: border-box;
+    background-size: calc(100% - 30px) calc(100% - 30px),cover;
+     background-position: 15px 17px,center;
+
+  }
+  .inner{
+     width: 100%;
+    height: 100%;
+    border: 2px solid black;
+  }
+.E{
+  position: absolute;
+    top: 8px;
+    left: 4px;
+    font-size: 24px;
+    font-size:35px;
+
+}
+.F{
+  position: absolute;
+    bottom: 5px;
+    right: 1px;
+    font-size:30px;
+    font-weight: bold;
+     rotate:180deg;
+
+}
+.G{
+   position:absolute;
+   top:1%
+}
+.I{
+  position:absolute;
+  bottom:1%;
+  right:8px
+}
+.H{
+  position:absolute;
+  top:10%;
+  left:-7px;
+  font-size:25px;
+}
+.J{
+  position:absolute;
+  bottom:10%;
+  right:-9;
+  font-size:24px;
+}
+.bgl{
+    border:solid 5px;
+    height:50%;
+    width:15%;
+    margin:auto;
+    position:absolute;
+    background-image:url(card-1.jpg);
+    right:16%;
+    background-size:100% 100%;
+    top:157.9%
+}
+div:hover{
+  color:orange;
+  
+}
