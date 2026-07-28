@@ -46,7 +46,7 @@
     width:15%;
     margin:auto;
     position:relative;
-    background-image:url('/card-1.jpg');
+    background-image:url('card-1.jpg');
     background-repeat:no-repeat;
     background-size:100% 100%;
     background-attachment: scroll;
@@ -172,7 +172,7 @@
   bottom: 27px;
   right: 10px;
   margin: 0;
-;
+
   transform: rotate(180deg); /* Flips the bottom 4 upside down */
 }
 .ten {
